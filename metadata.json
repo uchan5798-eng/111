@@ -1,0 +1,6 @@
+{
+  "name": "경기별 통증 기록 및 선수 프로필",
+  "description": "경기별 통증 부위 실루엣 기록, 통증 정도 추적, 사진 관리, 선수 프로필 및 AI 회복 추천",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
